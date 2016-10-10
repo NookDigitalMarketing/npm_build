@@ -1,0 +1,19 @@
+@font-face{font-family:icons;src:url(../font/icons.eot?1905801);src:url(../font/icons.eot?1905801#iefix) format('embedded-opentype'),url(../font/icons.woff2?1905801) format('woff2'),url(../font/icons.woff?1905801) format('woff'),url(../font/icons.ttf?1905801) format('truetype'),url(../font/icons.svg?1905801#icons) format('svg');font-weight:400;font-style:normal}
+[class*=" icon-"]:before,[class^=icon-]:before{font-family:icons;font-style:normal;font-weight:400;speak:none;display:inline-block;text-decoration:inherit;width:1em;margin-right:.2em;text-align:center;font-variant:normal;text-transform:none;line-height:1em;margin-left:.2em;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}
+.icon-phone:before{content:'\e800'}
+.icon-tick:before{content:'\e801'}
+.icon-fb-share:before{content:'\e802'}
+.icon-calendar:before{content:'\e803'}
+.icon-search:before{content:'\e804'}
+.icon-house:before{content:'\e805'}
+.icon-info:before{content:'\e806'}
+.icon-mouse:before{content:'\e808'}
+.icon-clipboard:before{content:'\e809'}
+.icon-info-outline:before{content:'\e80a'}
+.icon-fb-comment:before{content:'\e80d'}
+.icon-email-black:before{content:'\e812'}
+.icon-download:before{content:'\e815'}
+.icon-up:before{content:'\e816'}
+.icon-fb-like:before{content:'\f164'}
+.icon-fb:before{content:'\f230'}
+.icon-mouse-pointer:before{content:'\f245'}

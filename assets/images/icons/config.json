@@ -1,0 +1,112 @@
+{
+  "name": "icons",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "6cc7af3e5b55720bcb6ef68372ce24be",
+      "css": "fb",
+      "code": 62000,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "c91098f07ff0df45b3f8666b72b75801",
+      "css": "phone",
+      "code": 59392,
+      "src": "elusive"
+    },
+    {
+      "uid": "5e2ab018e3044337bcef5f7e94098ea1",
+      "css": "fb-like",
+      "code": 61796,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "531bc468eecbb8867d822f1c11f1e039",
+      "css": "calendar",
+      "code": 59395,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "12a80769cc7ac08e986deeafbe553054",
+      "css": "mouse-pointer",
+      "code": 62021,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "7222571caa5c15f83dcfd447c58d68d9",
+      "css": "search",
+      "code": 59396,
+      "src": "entypo"
+    },
+    {
+      "uid": "513ac180ff85bd275f2b736720cbbf5e",
+      "css": "house",
+      "code": 59397,
+      "src": "entypo"
+    },
+    {
+      "uid": "97c6901d8db077614e77b089d4eedac8",
+      "css": "mouse",
+      "code": 59400,
+      "src": "entypo"
+    },
+    {
+      "uid": "b95cfc96d48a72dd665e0ab109880b5e",
+      "css": "clipboard",
+      "code": 59401,
+      "src": "entypo"
+    },
+    {
+      "uid": "6364d85e960f23b9a843a506387e7970",
+      "css": "info-outline",
+      "code": 59402,
+      "src": "typicons"
+    },
+    {
+      "uid": "ce7452abce8b55ded1c393997a51e6b3",
+      "css": "tick",
+      "code": 59393,
+      "src": "elusive"
+    },
+    {
+      "uid": "05a2f4c4839012434774cc1ceb4c0f9b",
+      "css": "download",
+      "code": 59413,
+      "src": "elusive"
+    },
+    {
+      "uid": "b91c0e6aaab5e3146732b69dd418e120",
+      "css": "up",
+      "code": 59414,
+      "src": "elusive"
+    },
+    {
+      "uid": "d5937c5767642d0336ad599af0e9c992",
+      "css": "fb-share",
+      "code": 59394,
+      "src": "elusive"
+    },
+    {
+      "uid": "23710230c21b4af140947e3604cc67a5",
+      "css": "fb-comment",
+      "code": 59405,
+      "src": "elusive"
+    },
+    {
+      "uid": "a58032f4aafd0eec54803075f5b320d4",
+      "css": "email-black",
+      "code": 59410,
+      "src": "zocial"
+    },
+    {
+      "uid": "63b86fedd4ee9ad2105f54f4888e7088",
+      "css": "info",
+      "code": 59398,
+      "src": "entypo"
+    }
+  ]
+}

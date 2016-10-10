@@ -1,0 +1,19 @@
+
+	.ph_logo{color:$accent_color;font-style: italic;font-weight: 600;display: table;height: 100%; margin: 10px auto 0 auto;
+	}
+
+	.icon-phone{ @include border-radius(3px);padding: 2px 2px;margin-right:5px;color:white;background-color: $accent_color2;font-size: 6vw;display:table-cell;
+  vertical-align: middle;
+  
+	}
+	.ph_1300_no{padding-right: 0px; font-size: 5vw;display:table-cell;
+  vertical-align: middle;
+	}
+
+	.ph_no{margin: 0;
+  vertical-align: middle;
+	}
+
+	/*.ph_txt_sm{font-size: .7em;color: $accent_color_2;letter-spacing: 2px;margin-top: -9px;text-shadow: -2px 0 $white, 0 2px $white, 2px 0 $white, 0 -2px $white;}*//*FOR WORD NUMBERS*/
+	.ph_txt_sm{color: $accent_color_2;letter-spacing: 2px;font-size: 3vw;display:table-cell;
+  vertical-align: middle;

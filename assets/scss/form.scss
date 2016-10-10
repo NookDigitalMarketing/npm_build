@@ -1,0 +1,97 @@
+/**/
+/* ------- SASS ---------------------------------------------*/
+
+$heading1: 2.5vw;
+$heading2: 2.3vw;
+$heading3: 1.8vw;
+$heading4: 1.4vw;
+$paragraph: 1.6vw;
+
+
+/*COLOR LIST*//*COLOR LIST*//*COLOR LIST*/
+$white: #eef5f6;
+.white {color: #eef5f6;}
+$dark_grey: #AFAEB2;
+.dark_grey{color:#AFAEB2;}
+$light_grey : #F3F2F7;
+$main_color : #455052;
+.main_color{color:#455052;}
+$main_color_gradient : #57676a;
+$main_color_highlight : #7a68bd;
+$accent_color : #6ac8c8;
+.accent_color {color:#6ac8c8;}
+$accent_color_gradient : #60b7b7;
+$accent_color_2: #ee792c;
+.accent_color2 {color:#ee792c;;}
+$shadow : #00000b;
+/*END COLOR LIST*//*END COLOR LIST*//*END COLOR LIST*/
+$font : 'Lato';/*embedded in html*/
+$font2 : 'Arimo';/*embedded in html*/
+
+/* ////////////////////////////////////////////// FORM CSS /////////////////////////////////////////////  */
+/*input[type=text] - will only select text fields
+input[type=password] - will only select password fields
+input[type=number] - will only select number fields*/
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+
+.contact_form_title{font-size: $heading2;}/*All headings in form*/
+
+
+
+/* Tip (not dropdown!)*/
+.tip_text {text-align: left;}/*change if required*/
+
+.dropdown_tip{
+    position: relative;
+    display: inline-block;
+	margin: auto;
+	border: 1px solid orange;
+	width: 150px;	
+}
+
+.dropdown_tip-content/*For tip*/ {
+    visibility: hidden;
+    position: absolute;
+    background-color: #f9f9f9;
+    width: 250%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 8px 0px;
+    z-index: 1;
+	display: block;
+	/*Hide before animation*/
+	opacity: 0;
+    transition: opacity 1s;
+	text-align: left;
+	background-color: $light_grey;
+	padding: 10px 5px;
+}
+
+.dropdown_tip:hover .dropdown_tip-content/*For tip*/ {
+    /*Display by animation*/
+	visibility: visible;
+    opacity: 1;
+	
+}
+
+/*Customer Details*/
+
+
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 320px) {
+	.dropdown_tip-content/*For tip*/ {width: 100%;}
+}
+
+@media only screen and (min-width : 768px) {
+	.dropdown_tip-content/*For tip*/ {width: 250%;}
+	.dropdown_tip{float: left;}
+}
+
+/* ////////////////////////////////////////////// FORM CSS /////////////////////////////////////////////  */

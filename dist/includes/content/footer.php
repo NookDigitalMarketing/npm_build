@@ -1,0 +1,1 @@
+	<div class="copyright row">2016 &copy; www.Nook-Digital.Marketing - Optimised and Targeted Niche Websites - CALL 1300 LEADS4U - Perth, Western Australia.</div>
